@@ -1,2 +1,2 @@
-# presentation-firebase-angular
-Presentations to the SoCalDotNet and LA C# User Groups
+# Presentation: Building Real Time Apps With Firebase & AngularJS
+Slides from my recent talks 'Building Real Time Apps With Firebase & AngularJS'. See the code at [https://github.com/DavidMax/live-coding-firebase-angular](https://github.com/DavidMax/live-coding-firebase-angular)
